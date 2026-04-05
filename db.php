@@ -2,7 +2,7 @@
 define('DB_HOST', 'sql300.infinityfree.com');
 define('DB_NAME', 'if0_41481031_civsim');
 define('DB_USER', 'if0_41481031');
-define('DB_PASS', 'christ252006');
+define('DB_PASS', 'PASSKEY');
 define('DB_CHARSET', 'utf8mb4');
 
 function getDB(): PDO {
